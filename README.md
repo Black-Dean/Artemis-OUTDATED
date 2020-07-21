@@ -7,3 +7,6 @@ This is under GNU GPLv3. If you do not open source your modifications to any of 
 
 Artemis lang is a quite outdated yet immensely practical scripting language I had made to translate the scripting language into checks, which works flawlessly and does not cause any intermediate lag. It's all locally cached into a check. It however won't sustain long on a larger scaled network. Keep in mind it loads an entire file per check per player. It's a nono in my book.
 
+
+DISCLAIMER
+GhastD the creator of this repo did not have permissions for the AGC checks within this repo. This also means he does not have the rights to let you use these checks.
